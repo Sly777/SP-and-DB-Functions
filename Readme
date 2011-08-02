@@ -1,0 +1,10 @@
+// SP and DB Functions in c#
+// Developed by Ilker Guller
+//
+// http://developerarea.blogspot.com
+
+For use this to use database functions easily (like use SP, only Text or Basic Actions)
+
+:: HOW TO USE ::
+
+1. Upload this file to APP_CODE folder.
